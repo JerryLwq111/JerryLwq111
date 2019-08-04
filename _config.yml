@@ -1,9 +1,9 @@
 # Site/SEO settings
 email: 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 google_analytics: 
 
-title: Trophy
+title: Jerry
 description: 
 url: ""
 baseurl: ""
