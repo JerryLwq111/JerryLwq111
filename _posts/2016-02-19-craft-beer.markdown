@@ -1,51 +1,101 @@
 ---
 layout: post
-title: "Craft Beer"
+title: "以梦为马"
 date: 2016-02-19
 categories:
   - Juice
-description:
-image: https://picsum.photos/2000/1200?image=1003
-image-sm: https://picsum.photos/500/300?image=1003
+description:诗
 ---
-Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven't heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
+作者：海 子
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+我要做远方的忠诚的儿子
 
-<ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ol>
+和物质的短暂情人
 
-<h3>Subway tile</h3>
-Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
+和所有以梦为马的诗人一样
+
+我不得不和烈士和小丑走在同一道路上
+
+万人都要将火熄灭 我一人独将此火高高举起
+
+此火为大 开花落英于神圣的祖国
+
+和所有以梦为马的诗人一样
+
+我藉此火得度一生的茫茫黑夜
+
+此火为大 祖国的语言和乱石投筑的梁山城寨
+
+以梦为上的敦煌——那七月也会寒冷的骨骼
+
+如雪白的柴和坚硬的条条白雪 横放在众神之山
+
+和所有以梦为马的诗人一样
+
+我投入此火 这三者是囚禁我的灯盏 吐出光辉
+
+万人都要从我刀口走过 去建筑祖国的语言
+
+我甘愿一切从头开始
+
+和所有以梦为马的诗人一样
+
+我也愿将牢底坐穿
+
+众神创造物中只有我最易朽 带着不可抗拒的 死亡的速度
+
+只有粮食是我珍爱
+
+我将她紧紧抱住 抱住她 在故乡生儿育女
+
+和所有以梦为马的诗人一样
+
+我也愿将自己埋葬在四周高高的山上 守望平静的家园
+
+面对大河我无限惭愧
+
+我年华虚度 空有一身疲倦
+
+和所有以梦为马的诗人一样
+
+岁月易逝 一滴不剩 水滴中有一匹马儿 一命归天
+
+千年后如若我再生于祖国的河岸
+
+千年后我再次拥有中国的稻田 和周天子的雪山
+
+天马踢踏
+
+和所有以梦为马的诗人一样
+
+我选择永恒的事业
+
+我的事业 就是要成为太阳的一生
+
+他从古至今——“日”——他无比辉煌无比光明
+
+和所有以梦为马的诗人一样
+
+最后我被黄昏的众神抬入不朽的太阳
+
+太阳是我的名字
+
+太阳是我的一生
+
+太阳的山顶埋葬 诗歌的尸体——千年王国和我
+
+骑着五千年凤凰和名字叫"马"的龙——我必将失败
+
+但诗歌本身以太阳必将胜利
+
+
 
 <figure>
   <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
 </figure>
 
-Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
 
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
 
-<figure>
-  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
 
-Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.
 
-Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90's kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.
