@@ -7,6 +7,9 @@ categories:
 description
 ---
 
-### Pablo Neruda  Love is so short and forgetting is so long.  纪念我的第一篇博客  其实我不知道改写什么啊。。。
+### Pablo Neruda  
 
-但是我还是要说点什么。
+### Love is so short and forgetting is so long.  
+
+`<u>由于人性两面性的存在`，在小圈子里靠爱心、讲同情，而大世界靠市场，讲规则。所以，在极端情况的设想下，随着市场经济的不断发展，大世界里的人们只会越来越讲规则，缺少人情味；但是，当人们回到小圈子里，则会越发同情，充满着人情气息；而一个个小圈子，共同组成大世界，所以大世界缺少的人情味与小圈子的充满人情气息二者相加，正负抵消，人们依然还是人们，并没有变得淡薄。</u>
+
